@@ -1,0 +1,2 @@
+Go to Azure Portal > Setup Azure Maps Accounts 
+Update the 'Set-WindowsTimeZone.ps1' with [string]$AzureMapsSharedKey = "Enter-Azure-Map-Shared-Key"
