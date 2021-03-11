@@ -1,1 +1,1 @@
-# intune-scripts-windows
+All related Intune scripts created in Powershell.
